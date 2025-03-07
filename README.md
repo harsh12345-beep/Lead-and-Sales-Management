@@ -81,9 +81,7 @@ POST /api/auth/register – Register a new user
 
 POST /api/auth/logout – Logout user
 
-# To login as admin
-email-pursharth@gmail.com
-psw-Pursharth@123
+
 
 # To login as a customer
 email-sanskar.singh@gmail.com
