@@ -83,7 +83,3 @@ POST /api/auth/logout – Logout user
 
 
 
-# To login as a customer
-email-sanskar.singh@gmail.com
-psw-Sanskar@123
-
