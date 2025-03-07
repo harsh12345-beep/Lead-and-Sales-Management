@@ -1,6 +1,6 @@
 # Lead-and-Sales-Management
 # FOR FRONTEND
-use command "cd Frontend" 
+use command "cd sales lead manage" 
 it will take you to  end terminal
 use command "npm install"
 To run use command "npm run dev"
